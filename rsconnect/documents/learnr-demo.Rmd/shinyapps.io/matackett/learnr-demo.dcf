@@ -1,0 +1,14 @@
+name: learnr-demo
+title: learnr-demo
+username:
+account: matackett
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6636748
+bundleId: 6128910
+url: https://matackett.shinyapps.io/learnr-demo/
+when: 1658714596.21751
+lastSyncTime: 1658714596.21751
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
